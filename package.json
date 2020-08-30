@@ -1,0 +1,14 @@
+{
+  "name": "css-bootcamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bluekraken/css-bootcamp.git",
+  "author": "Andrew Hearse <andy@claroh.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server public/"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
